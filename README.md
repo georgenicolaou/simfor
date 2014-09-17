@@ -29,3 +29,6 @@ SIMFor does not play well with pcscd so make sure you disable it before running.
 ## TODO
 * Add definitions for SIM card files
 * Decide about "make install"
+
+## More info
+View more info at Silensec's Website [here](http://silensec.com/downloads-menu/simfor)
